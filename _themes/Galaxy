@@ -1,0 +1,20 @@
+---
+title: {Galaxy}
+author: {Blue Paladin}
+github: https://github.com/
+description_markdown: >- Markdown is allowed
+  Purple Galaxy Discord Theme
+download: https://github.com/ThatBludinBoy
+support: https://github.com/ThatBludinBoy 
+tags:
+software: # The list of softwares your theme supports (remove if you don't support it)
+  - BandagedBD
+  - BetterDiscord
+images:
+  - name: {Galaxy} Preview
+    image: https://imgur.com/a/RyCGqVh
+  - name: {Galaxy} Preview - {Galaxy}
+    image: https://imgur.com/a/RyCGqVh
+layout: product #* DON'T CHANGE
+ghcommentid: #0
+---
